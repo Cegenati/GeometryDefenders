@@ -1,6 +1,7 @@
 # GeometryDefenders
 
 Tower Defense Game created in Unity using C#
+
 To play the game go to https://cegenati.github.io/GeometryDefenders/
 
 Instructions:
